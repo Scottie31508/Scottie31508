@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Scottie31508
-- 👀 I’m interested in coding and gaming
+- 👀 I’m interested in coding and business
 - 🌱 I’m currently learning Computer Science (using Python)
 - 💞️ I’m looking to collaborate on 
-- 📫 Contacts me throught scottieboi31508@gmail.com
-- 😄 Pronouns: He/him/baguette
-- ⚡ Fun fact: I'm not good at coding
+- 📫 Contacts me through email: scottieboi31508@gmail.com, Instagram: n0t_scott1e
+- 📊 LinkedIn: https://www.linkedin.com/in/scott-ngo-096488398/
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm not good at coding and decent at running my own business.
+- If anybody wants to collab with my SaaS business, feel free to connect.
 
 <!---
 Scottie31508/Scottie31508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
