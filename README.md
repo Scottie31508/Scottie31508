@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Scottie31508
-- 👀 I’m interested in coding and business
+- 👋 Hi, I’m Scott
+- 👀 I’m interested in vibe-coding and business
 - 🌱 I’m currently learning Computer Science (using Python)
 - 💞️ I’m looking to collaborate on 
 - 📫 Contacts me through email: scottieboi31508@gmail.com, Instagram: n0t_scott1e
 - 📊 LinkedIn: https://www.linkedin.com/in/scott-ngo-096488398/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm not good at coding and decent at running my own business.
+- ⚡ Fun fact: I'm interes and decent at running my own business.
 - If anybody wants to collab with my SaaS business, feel free to connect.
 
 <!---
