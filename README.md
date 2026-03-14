@@ -5,7 +5,7 @@
 - 📫 Contacts me through email: scottieboi31508@gmail.com, Instagram: n0t_scott1e
 - 📊 LinkedIn: https://www.linkedin.com/in/scott-ngo-096488398/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm interes and decent at running my own business.
+- ⚡ Fun fact: I'm interested in running my own businessd and decent at it.
 - If anybody wants to collab with my SaaS business, feel free to connect.
 
 <!---
